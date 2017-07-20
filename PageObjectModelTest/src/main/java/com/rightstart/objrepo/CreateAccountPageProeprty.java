@@ -12,4 +12,6 @@ public interface CreateAccountPageProeprty {
 	By confirmPasswordLocator=By.id("dwfrm_profile_login_passwordconfirm");
 	
 	By submitButtonLocator=By.name("dwfrm_profile_confirm");
+	
+	By newproperty=By.id("123");
 }
